@@ -17,7 +17,7 @@
   export default {
     components: {
       ButtonHomepage
-    },
+    }
   }
 </script>
 
@@ -28,7 +28,6 @@
   .radius-10px {
     border-radius: 10px;
   }
-
   .margin-block-end-0 {
     margin-block-end: 0px;
   }
