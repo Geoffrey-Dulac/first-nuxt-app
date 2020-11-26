@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex justify-content-between">
+  <div class="d-flex justify-content-sm-between align-items-center flex-column flex-sm-row mt-4">
     <vs-button class="width-160 paragraph-color" transparent v-for="item in this.proposals" :key="item" @click="clickonanswer(item)">
       {{ item }}
     </vs-button>
