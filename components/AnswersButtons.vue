@@ -54,11 +54,11 @@
 </script>
 
 <style>
-.width-160 {
-  width: 160px;
-}
-.paragraph-color {
-  color: #687783;
-}
+  .width-160 {
+    width: 160px;
+  }
+  .paragraph-color {
+    color: #687783;
+  }
 </style>
 
